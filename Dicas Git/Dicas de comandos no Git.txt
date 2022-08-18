@@ -1,0 +1,10 @@
+Dicas de comandos no Git
+
+mkdir = criar pasta
+cd = entrar na pasta
+cd .. = retornar para a pasta anterior
+ctrl l = apagar/limpar tela
+mv = mover
+git add . = mover arquivo 
+git commit -m = realizar o commit do arquivo
+git clone = clonar código
