@@ -6,4 +6,4 @@ Segundo Desafio de projeto sobre Refinando um Projeto Conceitual de Banco de Dad
 
 Terceiro Desafio de projeto sobre Construindo um Esquema Conceitual do Zero - OFICINA
 
-Quarto Desagio de projeto Construindo seu Primeiro Projeto Lógico de Banco de Dados
+Quarto Desafio de projeto Construindo seu Primeiro Projeto Lógico de Banco de Dados
