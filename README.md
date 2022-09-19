@@ -1,7 +1,9 @@
 # Desafios de projeto - DIO (Database Experience)
 
-Desafio de projeto sobre Git/Github 
+Primeiro Desafio de projeto sobre Git/Github 
 
-Desafio de projeto sobre Refinando um Projeto Conceitual de Banco de Dados – E-COMMERCE
+Segundo Desafio de projeto sobre Refinando um Projeto Conceitual de Banco de Dados – E-COMMERCE
 
-Desafio de projeto sobre Construindo um Esquema Conceitual do Zero - OFICINA
+Terceiro Desafio de projeto sobre Construindo um Esquema Conceitual do Zero - OFICINA
+
+Quarto Desagio de projeto Construindo seu Primeiro Projeto Lógico de Banco de Dados
