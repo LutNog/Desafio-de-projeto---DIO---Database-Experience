@@ -1,0 +1,25 @@
+Diferenças entre linguagem SQL e NoSQL
+
+O que é SQL e NoSQL?
+
+O SQL (Banco de Dados Relacional) é um tipo de banco de dados que desejamos armazenar um conjunto de dados que tenham relação entre si, na qual temos um Schema de dados rígido, onde saberemos de fato o que iremos armazenar nesse banco.
+Já NoSQL (Banco de Dados Não Relacional) é um banco de dados que não tem necessariamente relações, permite que o usuário tenha uma estrutura de dados não rígida, seu Schema é free, ele permite o armazenamento de imagens, vídeos e fotos, abre uma gama de relacionamento enorme.
+
+Principais diferenças entre SQL x NoSQL
+
+
+SQL
+
+- Sistema de Gestão de Banco de Dados Relacional 
+- Esses bancos de dados têm esquema fixo ou estático ou predefinido
+- Esses bancos de dados não são adequados para armazenamento hierárquico de dados.
+- Esses bancos de dados são mais adequados para consultas complexas
+- Verticalmente escalável
+
+NoSQL
+
+- Sistema de banco de dados não relacional ou distribuído.
+- Eles têm esquema dinâmico
+- Esses bancos de dados são mais adequados para armazenamento hierárquico de dados.
+- Esses bancos de dados não são tão bons para consultas complexas
+- Escalonável horizontalmente
