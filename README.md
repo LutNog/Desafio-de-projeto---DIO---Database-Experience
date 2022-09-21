@@ -1,12 +1,13 @@
 # Desafios de projeto - DIO (Database Experience)
 
-Primeiro Desafio de projeto sobre Git/Github 
+- Primeiro Desafio de projeto sobre Git/Github 
 
-Segundo Desafio de projeto sobre Refinando um Projeto Conceitual de Banco de Dados – E-COMMERCE
+- Segundo Desafio de projeto sobre Refinando um Projeto Conceitual de Banco de Dados – E-COMMERCE
 
-Terceiro Desafio de projeto sobre Construindo um Esquema Conceitual do Zero - OFICINA 
+- Terceiro Desafio de projeto sobre Construindo um Esquema Conceitual do Zero - OFICINA 
 
-Quarto Desafio de projeto Construindo seu Primeiro Projeto Lógico de Banco de Dados - (Utilizando MySQL)
+- Quarto Desafio de projeto Construindo seu Primeiro Projeto Lógico de Banco de Dados - (Utilizando MySQL)
 
-Quinto Desafio Construa um Projeto Lógico de Banco de Dados do Zero - (Utilizando - MySQL)
+- Quinto Desafio Construa um Projeto Lógico de Banco de Dados do Zero - (Utilizando - MySQL)
 
+- Sexto Desafio O Papel dos Bancos de Dados SQL e NoSQL na Engenharia de Dados
